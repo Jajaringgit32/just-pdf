@@ -1,2 +1,1 @@
-# just-pdf
-Just PDF file
+none
